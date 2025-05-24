@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_titlescreen_placeholder",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":156.02939,
+  "name":"mus_titlescreen_placeholder",
+  "parent":{
+    "name":"Menu Screen (Placeholders, created by Yuku)",
+    "path":"folders/Sounds/Background Music/Placeholders/Menu Screen (Placeholders, created by Yuku).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_titlescreen_placeholder.mp3",
+  "type":1,
+  "volume":0.76,
+}

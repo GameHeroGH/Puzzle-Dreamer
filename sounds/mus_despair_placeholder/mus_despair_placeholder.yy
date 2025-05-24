@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_despair_placeholder",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":106.213875,
+  "name":"mus_despair_placeholder",
+  "parent":{
+    "name":"Placeholders",
+    "path":"folders/Sounds/Background Music/Placeholders.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_despair_placeholder.mp3",
+  "type":1,
+  "volume":1.0,
+}
