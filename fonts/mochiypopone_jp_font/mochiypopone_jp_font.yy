@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"mochiypopone_jp_font_",
+  "%Name":"mochiypopone_jp_font",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":32,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":41,
   "maintainGms1Font":false,
-  "name":"mochiypopone_jp_font_",
+  "name":"mochiypopone_jp_font",
   "parent":{
     "name":"Japanese",
     "path":"folders/Fonts/Japanese.yy",
@@ -4860,7 +4860,10 @@
   "sdfSpread":8,
   "size":21.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
