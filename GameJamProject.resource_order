@@ -23,6 +23,7 @@
     {"name":"Paths","order":5,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
     {"name":"Placeholders and Testings","order":1,"path":"folders/Rooms/Placeholders and Testings.yy",},
+    {"name":"Menu Folder","order":4,"path":"folders/Rooms/Placeholders and Testings/Menu Folder.yy",},
     {"name":"Scripts","order":7,"path":"folders/Scripts.yy",},
     {"name":"Sequences","order":8,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
