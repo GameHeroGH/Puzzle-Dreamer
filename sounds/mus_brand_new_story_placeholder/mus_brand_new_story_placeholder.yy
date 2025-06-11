@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_brand_new_story_placeholder.mp3",
   "type":1,
-  "volume":1.0,
+  "volume":0.56,
 }
