@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_clintgunshot2.wav",
   "type":1,
-  "volume":0.39,
+  "volume":0.31,
 }

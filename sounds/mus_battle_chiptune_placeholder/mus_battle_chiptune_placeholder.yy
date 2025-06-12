@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_battle_chiptune_placeholder.mp3",
   "type":1,
-  "volume":0.46,
+  "volume":0.35,
 }

@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_forestbattle_placeholder.mp3",
   "type":1,
-  "volume":0.73,
+  "volume":0.5,
 }
