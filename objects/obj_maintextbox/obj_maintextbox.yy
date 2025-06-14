@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_textbox_new",
-    "path":"sprites/spr_textbox_new/spr_textbox_new.yy",
+    "name":"spr_newtextboxii",
+    "path":"sprites/spr_newtextboxii/spr_newtextboxii.yy",
   },
   "spriteMaskId":null,
   "visible":true,

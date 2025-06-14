@@ -158,6 +158,7 @@
     {"name":"snd_slash2","order":7,"path":"sounds/snd_slash2/snd_slash2.yy",},
     {"name":"Sound40","order":10,"path":"sounds/Sound40/Sound40.yy",},
     {"name":"spr_nestextbox","order":3,"path":"sprites/spr_nestextbox/spr_nestextbox.yy",},
+    {"name":"spr_newtextboxii","order":5,"path":"sprites/spr_newtextboxii/spr_newtextboxii.yy",},
     {"name":"spr_textbox_button","order":1,"path":"sprites/spr_textbox_button/spr_textbox_button.yy",},
     {"name":"spr_textbox_new","order":4,"path":"sprites/spr_textbox_new/spr_textbox_new.yy",},
   ],
