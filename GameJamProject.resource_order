@@ -114,6 +114,7 @@
     {"name":"zenmarugothic_jp_font","order":15,"path":"fonts/zenmarugothic_jp_font/zenmarugothic_jp_font.yy",},
     {"name":"zenmarugothicmedium_jp_font","order":12,"path":"fonts/zenmarugothicmedium_jp_font/zenmarugothicmedium_jp_font.yy",},
     {"name":"Itch.io","order":1,"path":"notes/Itch.io/Itch.io.yy",},
+    {"name":"obj_maintextbox","order":1,"path":"objects/obj_maintextbox/obj_maintextbox.yy",},
     {"name":"rm_main_room_placeholder","order":1,"path":"rooms/rm_main_room_placeholder/rm_main_room_placeholder.yy",},
     {"name":"rm_text_test","order":3,"path":"rooms/rm_text_test/rm_text_test.yy",},
     {"name":"room_overworld_test","order":2,"path":"rooms/room_overworld_test/room_overworld_test.yy",},

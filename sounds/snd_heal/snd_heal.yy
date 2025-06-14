@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_heal.wav",
   "type":0,
-  "volume":0.63,
+  "volume":0.47,
 }
