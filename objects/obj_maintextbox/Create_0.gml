@@ -13,7 +13,7 @@ x = (display_get_gui_width() - width) / 2;
 y = display_get_gui_height() - height - margin;
 
 // Text
-text_font = jfdotshinogothic_jp_font;
+text_font = mochiypopone_en_font;
 text_color = c_white;
 text_speed = 0.8;
 text_x = padding;

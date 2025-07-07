@@ -110,6 +110,7 @@
     {"name":"roboto_fr_font","order":1,"path":"fonts/roboto_fr_font/roboto_fr_font.yy",},
     {"name":"singleday_kr_font","order":18,"path":"fonts/singleday_kr_font/singleday_kr_font.yy",},
     {"name":"stick_jp_font","order":13,"path":"fonts/stick_jp_font/stick_jp_font.yy",},
+    {"name":"yujisyuku_jp_font","order":19,"path":"fonts/yujisyuku_jp_font/yujisyuku_jp_font.yy",},
     {"name":"yuseimagic_jp_font","order":17,"path":"fonts/yuseimagic_jp_font/yuseimagic_jp_font.yy",},
     {"name":"zenmarugothic_jp_font","order":15,"path":"fonts/zenmarugothic_jp_font/zenmarugothic_jp_font.yy",},
     {"name":"zenmarugothicmedium_jp_font","order":12,"path":"fonts/zenmarugothicmedium_jp_font/zenmarugothicmedium_jp_font.yy",},
