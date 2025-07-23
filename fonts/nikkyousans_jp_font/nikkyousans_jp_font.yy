@@ -616,7 +616,10 @@
   "sdfSpread":8,
   "size":25.0,
   "styleName":"Sans",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
