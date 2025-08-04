@@ -124,8 +124,6 @@
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"gamecontrollerdb.txt","CopyToMask":-1,"filePath":"datafiles","name":"gamecontrollerdb.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"input_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"input_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"gamecontrollerdb.txt","CopyToMask":-1,"filePath":"datafiles","name":"gamecontrollerdb.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"input_license.txt","CopyToMask":-1,"filePath":"datafiles","name":"input_license.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
@@ -550,6 +548,7 @@
     {"id":{"name":"spr_textbox_new","path":"sprites/spr_textbox_new/spr_textbox_new.yy",},},
     {"id":{"name":"spr_textbox_placeholder","path":"sprites/spr_textbox_placeholder/spr_textbox_placeholder.yy",},},
     {"id":{"name":"spr_textbox_tester_clint","path":"sprites/spr_textbox_tester_clint/spr_textbox_tester_clint.yy",},},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
