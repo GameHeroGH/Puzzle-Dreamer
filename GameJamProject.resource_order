@@ -111,6 +111,7 @@
     {"name":"dongle_kr_font","order":7,"path":"fonts/dongle_kr_font/dongle_kr_font.yy",},
     {"name":"donglelight_kr_font","order":8,"path":"fonts/donglelight_kr_font/donglelight_kr_font.yy",},
     {"name":"dotgothic16_en_font","order":7,"path":"fonts/dotgothic16_en_font/dotgothic16_en_font.yy",},
+    {"name":"futuristic_next_jp_font","order":20,"path":"fonts/futuristic_next_jp_font/futuristic_next_jp_font.yy",},
     {"name":"gaegu_kr_font","order":10,"path":"fonts/gaegu_kr_font/gaegu_kr_font.yy",},
     {"name":"gaegulight_kr_font","order":11,"path":"fonts/gaegulight_kr_font/gaegulight_kr_font.yy",},
     {"name":"gugi_kr_font","order":12,"path":"fonts/gugi_kr_font/gugi_kr_font.yy",},
