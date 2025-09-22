@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_overworldbattle_placeholder.mp3",
   "type":1,
-  "volume":0.4,
+  "volume":0.38,
 }

@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_titlescreen_placeholder.mp3",
   "type":1,
-  "volume":0.76,
+  "volume":0.45,
 }
