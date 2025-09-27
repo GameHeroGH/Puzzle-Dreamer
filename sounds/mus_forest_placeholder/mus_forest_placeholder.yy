@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_forest_placeholder.mp3",
   "type":1,
-  "volume":0.51,
+  "volume":0.52,
 }
