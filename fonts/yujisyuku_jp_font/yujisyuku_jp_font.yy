@@ -130,11 +130,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n\r\nは？きみたちはどうぞ？このロボットの力を作る？",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n\r\nは？きみたちはどうぞ？このロボットの力を作る？\r\nThis is the closest to a Japanese font that replicates how a person writes Japanese with a brush.\r\n\r\n【アイヤ】\r\n「パパとママがります。おにいさんが二つあります。彼らはアキオとヒロケです。」\r\n",
   "sdfSpread":8,
   "size":21.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
