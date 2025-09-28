@@ -4856,14 +4856,11 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおかあさん！\r\nSelect a mode.\r\nAre you sure you want to delete this file?\r\nファイルをDELETE？\r\n森のゆうえんち。\r\nプッシュスタート\r\nタイムアタック！\r\nレコード",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおかあさん！\r\nSelect a mode.\r\nAre you sure you want to delete this file?\r\nファイルをDELETE？\r\n森のゆうえんち。\r\nプッシュスタート\r\nタイムアタック！\r\nレコード\r\nナムコのゲームセンター",
   "sdfSpread":8,
-  "size":21.0,
+  "size":23.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }

@@ -11947,14 +11947,11 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nＴｈｅ　Ｈｙｒｕｌｅ　Ｆａｎｔａｓｙ：ゼルダの伝説\r\nお待ちください\r\nプッシュスタート\r\n８ビットコンピュータ\r\nWii U Gamepad\r\n田尻 聡\r\nポケットモンスター（ポケモン）",
   "sdfSpread":8,
-  "size":12.0,
+  "size":26.0,
   "styleName":"Bold",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }
