@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"Sound40",
+  "%Name":"snd_beep2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,7 +10,7 @@
   "compression":0,
   "conversionMode":0,
   "duration":0.49632654,
-  "name":"Sound40",
+  "name":"snd_beep2",
   "parent":{
     "name":"Sound Effects",
     "path":"folders/Sounds/Sound Effects.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"Sound40.mp3",
+  "soundFile":"snd_beep2.mp3",
   "type":1,
   "volume":1.0,
 }
