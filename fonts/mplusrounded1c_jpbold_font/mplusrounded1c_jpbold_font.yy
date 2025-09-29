@@ -11947,11 +11947,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nＴｈｅ　Ｈｙｒｕｌｅ　Ｆａｎｔａｓｙ：ゼルダの伝説\r\nお待ちください\r\nプッシュスタート\r\n８ビットコンピュータ\r\nWii U Gamepad\r\n田尻 聡\r\nポケットモンスター（ポケモン）",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nＴｈｅ　Ｈｙｒｕｌｅ　Ｆａｎｔａｓｙ：ゼルダの伝説\r\nお待ちください\r\nプッシュスタート\r\n８ビットコンピュータ\r\nWii U Gamepad\r\n田尻 聡\r\nポケットモンスター（ポケモン）\r\n桜井 政博\r\n宮本 茂\r\n小泉 歓晃\r\n坂本 賀勇",
   "sdfSpread":8,
   "size":26.0,
   "styleName":"Bold",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

@@ -12274,11 +12274,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおなまえは？\r\nパックマン\r\nナムコ\r\nバンダイ\r\nホリタイゾウ",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおなまえは？\r\nパックマン\r\nナムコ\r\nバンダイ\r\nホリタイゾウ\r\n桜井 政博\r\n宮本 茂\r\n小泉 歓晃\r\n坂本 賀勇",
   "sdfSpread":8,
   "size":21.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
