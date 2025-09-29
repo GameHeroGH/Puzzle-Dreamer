@@ -12,8 +12,8 @@
   "duration":46.05388,
   "name":"mus_storybegins_placeholder",
   "parent":{
-    "name":"Battle Themes (Placeholders, created by Yuku)",
-    "path":"folders/Sounds/Background Music/Placeholders/Battle Themes (Placeholders, created by Yuku).yy",
+    "name":"Placeholders",
+    "path":"folders/Sounds/Background Music/Placeholders.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_storybegins_placeholder.mp3",
   "type":1,
-  "volume":1.0,
+  "volume":0.58,
 }

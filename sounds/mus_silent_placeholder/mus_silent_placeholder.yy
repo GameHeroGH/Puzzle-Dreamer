@@ -12,8 +12,8 @@
   "duration":158.06694,
   "name":"mus_silent_placeholder",
   "parent":{
-    "name":"Battle Themes (Placeholders, created by Yuku)",
-    "path":"folders/Sounds/Background Music/Placeholders/Battle Themes (Placeholders, created by Yuku).yy",
+    "name":"Placeholders",
+    "path":"folders/Sounds/Background Music/Placeholders.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

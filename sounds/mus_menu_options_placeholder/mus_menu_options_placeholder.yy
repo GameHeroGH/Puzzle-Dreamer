@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_menu_options_placeholder.mp3",
   "type":1,
-  "volume":0.38,
+  "volume":0.69,
 }
