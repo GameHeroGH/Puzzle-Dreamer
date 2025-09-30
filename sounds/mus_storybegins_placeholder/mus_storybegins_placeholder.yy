@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_storybegins_placeholder.mp3",
   "type":1,
-  "volume":0.63,
+  "volume":0.49,
 }
