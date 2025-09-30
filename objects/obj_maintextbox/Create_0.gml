@@ -18,7 +18,7 @@ text_color = c_white;
 text_speed = 0.8;
 text_x = padding;
 text_y = padding;
-text_width = width - padding * 2;
+text_width = width - padding * 3;
 
 /// Private properties
 /*** LOOK BUT DO NOT EDIT! ***/
