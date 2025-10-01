@@ -130,14 +130,11 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n公子（きみこ）「きみたちはどうしたの？」\r\nケルのお父さん「息子・・・俺は・・」\r\nヒロケ「彼女は・・・彼女は」",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n公子（きみこ）「きみたちはどうしたの？」\r\nケルのお父さん「息子・・・俺は・・」\r\nヒロケ「彼女は・・・彼女は」\r\n（かぶしきがいしゃハルけんきゅうしつ）",
   "sdfSpread":8,
   "size":27.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }

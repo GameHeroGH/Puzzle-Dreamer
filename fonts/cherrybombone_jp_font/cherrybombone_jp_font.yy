@@ -130,11 +130,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおそまつさん\r\nカービィ\r\nマリオ\r\nルイージ\r\nクッパ\r\nキノピオ\r\nスーパーマリオ６４\r\nマリオカート６４\r\nホシのカービィ\r\nメイドインワリオ\r\nメトロイド\r\nみどりや いずく（デク）\r\nスポンジボブ\r\nゼルダのでんせつ ときのオカリナ\r\n",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおそまつさん\r\nカービィ\r\nマリオ\r\nルイージ\r\nクッパ\r\nキノピオ\r\nスーパーマリオ６４\r\nマリオカート６４\r\nホシのカービィ\r\nメイドインワリオ\r\nメトロイド\r\nみどりや いずく（デク）\r\nスポンジボブ\r\nゼルダのでんせつ ときのオカリナ\r\n（かぶしきがいしゃハルけんきゅうしつ）",
   "sdfSpread":8,
   "size":28.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

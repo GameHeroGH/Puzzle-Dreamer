@@ -11725,11 +11725,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nじゃないか？\r\n私はアイヤです！彼はレオです！彼は親友です。\r\n\r\nそうそうもう一つの世界\r\nゼルダの伝説：神々のトライフォース\r\nゼルダの伝説：ムジュラの仮面\r\nスーパーマリオ６４\r\nマリオカート６４\r\nレオ：僕はレオです。僕はアイヤのおさなじみだよ。\r\n",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nじゃないか？\r\n私はアイヤです！彼はレオです！彼は親友です。\r\n\r\nそうそうもう一つの世界\r\nゼルダの伝説：神々のトライフォース\r\nゼルダの伝説：ムジュラの仮面\r\nスーパーマリオ６４\r\nマリオカート６４\r\nレオ：僕はレオです。僕はアイヤのおさなじみだよ。\r\n株式会社ハル研究室（かぶしきがいしゃハルけんきゅうしつ）",
   "sdfSpread":8,
   "size":24.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }
