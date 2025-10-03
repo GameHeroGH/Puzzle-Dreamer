@@ -130,11 +130,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n公子（きみこ）「きみたちはどうしたの？」\r\nケルのお父さん「息子・・・俺は・・」\r\nヒロケ「彼女は・・・彼女は」\r\n（かぶしきがいしゃハルけんきゅうしつ）",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n公子（きみこ）「きみたちはどうしたの？」\r\nケルのお父さん「息子・・・俺は・・」\r\nヒロケ「彼女は・・・彼女は」\r\n（かぶしきがいしゃハルけんきゅうしつ）\r\n\r\n【僕のともだち】「それは・・・ファミコンのアメリカ版、ですね？」\r\n\r\n【ボク】「はい、このファミコンのアメリカ版の名前は『ニンテンドー・エンターテインメント・システム』です。」",
   "sdfSpread":8,
   "size":27.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

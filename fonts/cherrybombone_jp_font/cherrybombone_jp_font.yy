@@ -130,14 +130,11 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおそまつさん\r\nカービィ\r\nマリオ\r\nルイージ\r\nクッパ\r\nキノピオ\r\nスーパーマリオ６４\r\nマリオカート６４\r\nホシのカービィ\r\nメイドインワリオ\r\nメトロイド\r\nみどりや いずく（デク）\r\nスポンジボブ\r\nゼルダのでんせつ ときのオカリナ\r\n（かぶしきがいしゃハルけんきゅうしつ）",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\nおそまつさん\r\nカービィ\r\nマリオ\r\nルイージ\r\nクッパ\r\nキノピオ\r\nスーパーマリオ６４\r\nマリオカート６４\r\nホシのカービィ\r\nメイドインワリオ\r\nメトロイド\r\nみどりや いずく（デク）\r\nスポンジボブ\r\nゼルダのでんせつ ときのオカリナ\r\n（かぶしきがいしゃハルけんきゅうしつ）\r\n\r\n【ボクのともだち】「それは・・・ファミコンのアメリカバン、ですね？」\r\n\r\n【ボク】「はい、このファミコンのアメリカバンのナマエは『ニンテンドー・エンターテインメント・システム』です。」",
   "sdfSpread":8,
   "size":28.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }
