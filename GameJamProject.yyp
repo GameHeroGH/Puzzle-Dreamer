@@ -201,7 +201,9 @@
     {"id":{"name":"__InputUpdateController","path":"objects/__InputUpdateController/__InputUpdateController.yy",},},
     {"id":{"name":"obj_demo","path":"objects/obj_demo/obj_demo.yy",},},
     {"id":{"name":"obj_maintextbox","path":"objects/obj_maintextbox/obj_maintextbox.yy",},},
+    {"id":{"name":"obj_musictester","path":"objects/obj_musictester/obj_musictester.yy",},},
     {"id":{"name":"rm_main_room_placeholder","path":"rooms/rm_main_room_placeholder/rm_main_room_placeholder.yy",},},
+    {"id":{"name":"rm_musicroom_test","path":"rooms/rm_musicroom_test/rm_musicroom_test.yy",},},
     {"id":{"name":"rm_text_test","path":"rooms/rm_text_test/rm_text_test.yy",},},
     {"id":{"name":"rm_textbox_area","path":"rooms/rm_textbox_area/rm_textbox_area.yy",},},
     {"id":{"name":"room_overworld_test","path":"rooms/room_overworld_test/room_overworld_test.yy",},},
@@ -566,6 +568,7 @@
     {"roomId":{"name":"rm_textbox_area","path":"rooms/rm_textbox_area/rm_textbox_area.yy",},},
     {"roomId":{"name":"rm_main_room_placeholder","path":"rooms/rm_main_room_placeholder/rm_main_room_placeholder.yy",},},
     {"roomId":{"name":"room_overworld_test","path":"rooms/room_overworld_test/room_overworld_test.yy",},},
+    {"roomId":{"name":"rm_musicroom_test","path":"rooms/rm_musicroom_test/rm_musicroom_test.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
