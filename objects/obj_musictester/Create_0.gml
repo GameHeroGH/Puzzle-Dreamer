@@ -8,6 +8,7 @@
  */
 
 
-// I will define the variables required for the music tester
+/// I will define the variables required for the music tester
 
-musicvar = 
+
+// Input
