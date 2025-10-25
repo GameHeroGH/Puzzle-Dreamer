@@ -130,11 +130,14 @@
   "regenerateBitmap":false,
   "resourceType":"GMFont",
   "resourceVersion":"2.0",
-  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n\r\nは？きみたちはどうぞ？このロボットの力を作る？\r\nThis is the closest to a Japanese font that replicates how a person writes Japanese with a brush.\r\nイワタてんちょう\r\n【アイヤ】\r\n「パパとママがります。おにいさんが二つあります。彼らはアキオとヒロケです。彼らは２０歳と16歳。」\r\n桜井 政博\r\n宮本 茂\r\n小泉 歓晃\r\n坂本 賀勇\r\n株式会社ハル研究室（かぶしきがいしゃハルけんきゅうしつ）",
+  "sampleText":"abcdef ABCDEF\n0123456789 .,<>\"'&!?\nthe quick brown fox jumps over the lazy dog\nTHE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\nDefault character: ▯ (9647)\r\n\r\nは？きみたちはどうぞ？このロボットの力を作る？\r\nThis is the closest to a Japanese font that replicates how a person writes Japanese with a brush.\r\nイワタてんちょう\r\n【アイヤ】\r\n「パパとママがります。おにいさんが二つあります。彼らはアキオとヒロケです。彼らは２０歳と16歳。」\r\n桜井 政博\r\n宮本 茂\r\n小泉 歓晃\r\n坂本 賀勇\r\n株式会社ハル研究室（かぶしきがいしゃハルけんきゅうしつ）\r\nLily: Hey, nerdy boy! Over here!\r\nHiroke: L-Lily?!\r\nLily: Yes, it's Lily, nerdy.\r\nリリー：おい、オタク坊や！こっちに来て！\r\nヒロケ：リ、リリー！？\r\nリリー：そう、リリーだよ、オタク坊や。",
   "sdfSpread":8,
   "size":24.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

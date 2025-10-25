@@ -13,5 +13,5 @@
 
 
 
-draw_text(25, 10, "So was it your friend Clint?\nBecause I don't think it was him.");
+draw_text(25, 50, "So was it your friend Clint?\nBecause I don't think it was him.");
 

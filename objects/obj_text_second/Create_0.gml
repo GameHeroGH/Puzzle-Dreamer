@@ -7,4 +7,4 @@
 
 text_dialogue = cherrybombone_jp_font;
 color_text = c_white;
-text_size = 40;
+text_size = 80;
