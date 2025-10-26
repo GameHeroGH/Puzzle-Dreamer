@@ -1,7 +1,7 @@
 {
   "$GMNotes":"",
-  "%Name":"Placeholder Music #1",
-  "name":"Placeholder Music #1",
+  "%Name":"Placeholder Music #1 (Background Music (BGM))",
+  "name":"Placeholder Music #1 (Background Music (BGM))",
   "parent":{
     "name":"Music plans",
     "path":"folders/Notes/Music plans.yy",

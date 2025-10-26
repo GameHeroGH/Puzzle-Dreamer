@@ -55,6 +55,7 @@
     {"name":"Notes","order":3,"path":"folders/Notes.yy",},
     {"name":"Art plans","order":8,"path":"folders/Notes/Art plans.yy",},
     {"name":"Gameplay plans","order":3,"path":"folders/Notes/Gameplay plans.yy",},
+    {"name":"Developer's Messages","order":9,"path":"folders/Notes/Developer's Messages.yy",},
     {"name":"Localization plans","order":6,"path":"folders/Notes/Localization plans.yy",},
     {"name":"Music plans","order":1,"path":"folders/Notes/Music plans.yy",},
     {"name":"Sites where the game should be hosted","order":7,"path":"folders/Notes/Sites where the game should be hosted.yy",},
