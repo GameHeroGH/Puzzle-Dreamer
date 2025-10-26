@@ -9,7 +9,7 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":100,"SerialiseWidth":140,"TileCompressedData":[
+    {"$GMRTileLayer":"","%Name":"ts_mazewalls","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"ts_mazewalls","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":100,"SerialiseWidth":140,"TileCompressedData":[
           -86,0,-54,-2147483648,-86,0,-54,-2147483648,-86,0,-54,-2147483648,-86,0,-54,-2147483648,-117,0,-23,-2147483648,
           -117,0,-23,-2147483648,-117,0,-23,-2147483648,-117,0,-23,-2147483648,-117,0,-23,-2147483648,-117,0,-23,
           -2147483648,-117,0,-23,-2147483648,-117,0,-23,-2147483648,-117,0,-23,-2147483648,-117,0,-23,-2147483648,
@@ -43,7 +43,7 @@
           -106,0,-34,-2147483648,-106,0,-34,-2147483648,-106,0,-34,-2147483648,-106,0,-34,-2147483648,-106,0,-36,
           -2147483648,-104,0,-36,-2147483648,-104,0,-36,-2147483648,-85,0,-55,-2147483648,-85,0,-55,-2147483648,
           -85,0,-50,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_pacman_maze","path":"tilesets/ts_pacman_maze/ts_pacman_maze.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+        ],"TileDataFormat":1,},"tilesetId":{"name":"ts_pacman_mazereal","path":"tilesets/ts_pacman_mazereal/ts_pacman_mazereal.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"rm_pacman_test",

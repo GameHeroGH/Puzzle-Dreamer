@@ -9,8 +9,8 @@
   "name":"obj_text_second",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Testing Objects",
+    "path":"folders/Objects/Testing Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

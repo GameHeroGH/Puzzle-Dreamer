@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_waka1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.08263039,
+  "name":"snd_waka1",
+  "parent":{
+    "name":"Sound Effects",
+    "path":"folders/Sounds/Pac-Man/Sound Effects.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_waka1.wav",
+  "type":1,
+  "volume":1.0,
+}
