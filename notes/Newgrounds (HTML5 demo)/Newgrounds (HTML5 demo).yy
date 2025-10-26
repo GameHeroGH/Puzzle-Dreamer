@@ -1,7 +1,7 @@
 {
   "$GMNotes":"",
-  "%Name":"Newgrounds",
-  "name":"Newgrounds",
+  "%Name":"Newgrounds (HTML5 demo)",
+  "name":"Newgrounds (HTML5 demo)",
   "parent":{
     "name":"Sites where the game should be hosted",
     "path":"folders/Notes/Sites where the game should be hosted.yy",

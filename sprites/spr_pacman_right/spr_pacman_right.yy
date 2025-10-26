@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"The main character",
-    "path":"folders/Sprites/Pac-Man/The main character.yy",
+    "name":"Pac-Man (Main Character)",
+    "path":"folders/Sprites/Pac-Man/Pac-Man (Main Character).yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
