@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_pianobattle_placeholder_2",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":87.066124,
+  "exportDir":"",
   "name":"mus_pianobattle_placeholder_2",
   "parent":{
     "name":"Battle Themes (Placeholders, created by Yuku)",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_pianobattle_placeholder_2.mp3",
-  "type":1,
   "volume":1.0,
 }

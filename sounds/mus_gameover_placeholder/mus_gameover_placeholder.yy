@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_gameover_placeholder",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":0,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":69.22449,
+  "exportDir":"",
   "name":"mus_gameover_placeholder",
   "parent":{
     "name":"Menu Screen (Placeholders, created by Yuku)",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_gameover_placeholder.mp3",
-  "type":0,
   "volume":1.0,
 }

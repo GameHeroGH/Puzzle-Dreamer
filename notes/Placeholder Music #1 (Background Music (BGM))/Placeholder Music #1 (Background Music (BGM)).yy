@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"Placeholder Music #1 (Background Music (BGM))",
   "name":"Placeholder Music #1 (Background Music (BGM))",
   "parent":{

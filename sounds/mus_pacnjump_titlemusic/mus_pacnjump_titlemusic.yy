@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_pacnjump_titlemusic",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":52.401634,
+  "exportDir":"",
   "name":"mus_pacnjump_titlemusic",
   "parent":{
     "name":"Background Music",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_pacnjump_titlemusic.ogg",
-  "type":1,
-  "volume":1.0,
+  "volume":0.48,
 }

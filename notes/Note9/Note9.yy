@@ -1,7 +1,7 @@
 {
-  "$GMNotes":"",
-  "%Name":"Hello from the main developer!",
-  "name":"Hello from the main developer!",
+  "$GMNotes":"v1",
+  "%Name":"Note9",
+  "name":"Note9",
   "parent":{
     "name":"Developer's Messages",
     "path":"folders/Notes/Developer's Messages.yy",

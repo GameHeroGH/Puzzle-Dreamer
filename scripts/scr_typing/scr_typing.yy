@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"scr_typing",
   "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+    "name":"GameMaker Input (Game Controllers)",
+    "path":"folders/Scripts/GameMaker Input (Game Controllers).yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

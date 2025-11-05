@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_brand_new_story_placeholder",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":222.06694,
+  "exportDir":"",
   "name":"mus_brand_new_story_placeholder",
   "parent":{
     "name":"Placeholders",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_brand_new_story_placeholder.mp3",
-  "type":1,
   "volume":0.51,
 }

@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"mus_menu_options_placeholder",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":81.4498,
+  "exportDir":"",
   "name":"mus_menu_options_placeholder",
   "parent":{
     "name":"Menu Screen (Placeholders, created by Yuku)",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_menu_options_placeholder.mp3",
-  "type":1,
   "volume":0.69,
 }

@@ -1,5 +1,5 @@
 {
-  "$GMWindowsOptions":"",
+  "$GMWindowsOptions":"v1",
   "%Name":"Windows",
   "name":"Windows",
   "option_windows_allow_fullscreen_switching":true,
@@ -7,6 +7,7 @@
   "option_windows_company_info":"James Hall (GAMEHERO)",
   "option_windows_copyright_info":"James Hall (2025)",
   "option_windows_copy_exe_to_dest":false,
+  "option_windows_d3dswapeffectdiscard":false,
   "option_windows_description_info":"This is a prototype of a puzzle game that originally started as a text-based game for a jam that I decided to overhaul.",
   "option_windows_disable_sandbox":false,
   "option_windows_display_cursor":true,

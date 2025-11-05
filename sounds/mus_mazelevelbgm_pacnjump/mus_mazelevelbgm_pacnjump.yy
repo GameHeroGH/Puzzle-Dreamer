@@ -1,16 +1,18 @@
 {
-  "$GMSound":"",
-  "%Name":"mus_mazelevelbgm",
+  "$GMSound":"v2",
+  "%Name":"mus_mazelevelbgm_pacnjump",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":4,
   "conversionMode":0,
   "duration":74.10941,
-  "name":"mus_mazelevelbgm",
+  "exportDir":"",
+  "name":"mus_mazelevelbgm_pacnjump",
   "parent":{
     "name":"Background Music",
     "path":"folders/Sounds/Pac-Man/Background Music.yy",
@@ -19,7 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_mazelevelbgm.ogg",
-  "type":1,
-  "volume":0.55,
+  "soundFile":"mus_mazelevelbgm_pacnjump.ogg",
+  "volume":0.44,
 }

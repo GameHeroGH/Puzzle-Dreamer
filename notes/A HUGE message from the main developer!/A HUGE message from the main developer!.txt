@@ -35,7 +35,9 @@
              which was the very first project that I started (it was called Nightmare at first, but I changed it to Story of Fantasies as its final name),
              but I abandoned it (don't worry, I'm planning to return to them and the world, which I made newer characters, newer locations, etc. for them, along with creating new stories set within the universe of Story of Fantasies).
  
-             I have also created Galaxia Heroes, Sky Hero, Akuma Thomas, Minus Karetaki, Star Rangers, Suné, Stickman Warrior, Kingdom Wars SAGA, The 6 Stories, Tower of Illusions, and finally, Ghostly Academy (which is being made as a college project).
+             I have also created Galaxia Heroes, Sky Hero (the first two is also set in the Story of Fantasies universe), Akuma Thomas (a low urban fantasy slice of life webcomic),
+             Minus Karetaki, Star Rangers, Suné, Stickman Warrior, Kingdom Wars SAGA (a spinoff ALSO set in the Story of Fantasies universe, albeit in the future), The 6 Stories, Tower of Illusions,
+             and finally, Ghostly Academy (which is being made as a college project).
              I tried to create new stories and new adventures for those characters, but I kept abandoning them as well, so this time, I'm going to try to not abandon this one as I'm going to put all my focus on designing the story, gameplay, music, art,
              weapons, etc.
 
@@ -52,5 +54,13 @@
 
              Section 2.1: Kirby's Star Stacker (SNES, known as Kirby's Super Star Stacker unofficially, Kirby no Kirakira Kids in Japan)
 
-             
+             Welcome to Part 2 of this note. I will explain all of the games that inspired Puzzle Dreamer and its gameplay.
+             The first section of Part 2 will go over Kirby's Star Stacker (the SNES/SFC version, not the Game Boy version) and how its
+             mechanics became one of the main inspirations behind the gameplay of Puzzle Dreamer.
+
+             Kirby's Star Stacker (SNES/SFC) is a spin off of the Kirby series, being a puzzle game with block dropping elements.
+             There were two versions of the game that was released, Game Boy and Super Famicom. The Game Boy version came out first a full year before the Super Famicom version,
+             and the Super Famicom version was only released in Japan, as its American counterpart, the Super Nintendo Entertainment System, was discontinued internationally.
+
+             It was eventually released internationally on the SNES app on the Nintendo Switch Online service, so there's that.
              

@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"Itch.io",
   "name":"Itch.io",
   "parent":{

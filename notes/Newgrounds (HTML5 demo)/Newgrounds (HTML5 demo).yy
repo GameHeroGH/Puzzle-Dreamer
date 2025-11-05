@@ -1,5 +1,5 @@
 {
-  "$GMNotes":"",
+  "$GMNotes":"v1",
   "%Name":"Newgrounds (HTML5 demo)",
   "name":"Newgrounds (HTML5 demo)",
   "parent":{
