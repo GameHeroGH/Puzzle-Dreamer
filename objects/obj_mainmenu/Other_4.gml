@@ -1,0 +1,1 @@
+audio_play_sound(mus_titlescreen_placeholder, 0, true);

@@ -89,8 +89,8 @@
   ],
   "name":"rm_pacman_test",
   "parent":{
-    "name":"Placeholders and Testings",
-    "path":"folders/Rooms/Placeholders and Testings.yy",
+    "name":"Pac-Man",
+    "path":"folders/Rooms/Placeholders and Testings/Menu Folder/Pac-Man.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
