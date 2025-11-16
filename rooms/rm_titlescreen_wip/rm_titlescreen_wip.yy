@@ -1,23 +1,27 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_musicroom_test",
+  "%Name":"rm_titlescreen_wip",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_221DD437","path":"rooms/rm_musicroom_test/rm_musicroom_test.yy",},
-    {"name":"inst_6A28C730","path":"rooms/rm_musicroom_test/rm_musicroom_test.yy",},
+    {"name":"inst_12C0F7DC","path":"rooms/rm_titlescreen_wip/rm_titlescreen_wip.yy",},
+    {"name":"inst_12D13D70","path":"rooms/rm_titlescreen_wip/rm_titlescreen_wip.yy",},
+    {"name":"inst_44537377","path":"rooms/rm_titlescreen_wip/rm_titlescreen_wip.yy",},
+    {"name":"inst_6C4AFCFD","path":"rooms/rm_titlescreen_wip/rm_titlescreen_wip.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_221DD437","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_221DD437","objectId":{"name":"obj_button_back","path":"objects/obj_button_back/obj_button_back.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":608.0,},
-        {"$GMRInstance":"v4","%Name":"inst_6A28C730","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6A28C730","objectId":{"name":"obj_musicmode","path":"objects/obj_musicmode/obj_musicmode.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v4","%Name":"inst_12C0F7DC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_12C0F7DC","objectId":{"name":"obj_button_testroom","path":"objects/obj_button_testroom/obj_button_testroom.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_12D13D70","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_12D13D70","objectId":{"name":"obj_button_quit","path":"objects/obj_button_quit/obj_button_quit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":832.0,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_44537377","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_44537377","objectId":{"name":"obj_button_gag","path":"objects/obj_button_gag/obj_button_gag.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":496.5,"y":640.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6C4AFCFD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C4AFCFD","objectId":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_musicroom_test",
+  "name":"rm_titlescreen_wip",
   "parent":{
     "name":"Main Menu",
     "path":"folders/Rooms/Placeholders and Testings/Menu Folder/Main Menu.yy",
@@ -33,10 +37,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":680,
+    "Height":737,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":1000,
+    "Width":993,
   },
   "sequenceId":null,
   "views":[

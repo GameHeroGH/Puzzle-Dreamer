@@ -10,3 +10,6 @@ else
 {
     instance_create_layer(room_width / 2, room_height - 300, "Instances", obj_gag);
 }
+
+// This will play the heal sound effect
+audio_play_sound(snd_heal, 0, false);
