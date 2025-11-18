@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rm_musicroom_test);
+audio_play_sound(snd_credit_pac, 0, false);

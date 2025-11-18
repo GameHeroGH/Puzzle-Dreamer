@@ -1,0 +1,1 @@
+audio_play_sound(mus_pacnjump_titlemusic, 0, true);
