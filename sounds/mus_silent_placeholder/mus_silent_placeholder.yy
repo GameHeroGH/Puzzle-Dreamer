@@ -15,7 +15,7 @@
   "name":"mus_silent_placeholder",
   "parent":{
     "name":"Placeholders",
-    "path":"folders/Sounds/Background Music/Placeholders.yy",
+    "path":"folders/Sounds/Background Music (Puzzle Dreamer)/Placeholders.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

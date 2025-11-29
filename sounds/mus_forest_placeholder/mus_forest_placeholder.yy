@@ -15,7 +15,7 @@
   "name":"mus_forest_placeholder",
   "parent":{
     "name":"World Themes (Placeholders, created by Yuku)",
-    "path":"folders/Sounds/Background Music/Placeholders/World Themes (Placeholders, created by Yuku).yy",
+    "path":"folders/Sounds/Background Music (Puzzle Dreamer)/Placeholders/World Themes (Placeholders, created by Yuku).yy",
   },
   "preload":false,
   "resourceType":"GMSound",

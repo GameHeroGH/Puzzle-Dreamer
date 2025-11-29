@@ -15,7 +15,7 @@
   "name":"mus_alex_battle_placeholder",
   "parent":{
     "name":"Battle Themes (Placeholders, created by Yuku)",
-    "path":"folders/Sounds/Background Music/Placeholders/Battle Themes (Placeholders, created by Yuku).yy",
+    "path":"folders/Sounds/Background Music (Puzzle Dreamer)/Placeholders/Battle Themes (Placeholders, created by Yuku).yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -15,7 +15,7 @@
   "name":"mus_menu_placeholder",
   "parent":{
     "name":"Menu Screen (Placeholders, created by Yuku)",
-    "path":"folders/Sounds/Background Music/Placeholders/Menu Screen (Placeholders, created by Yuku).yy",
+    "path":"folders/Sounds/Background Music (Puzzle Dreamer)/Placeholders/Menu Screen (Placeholders, created by Yuku).yy",
   },
   "preload":false,
   "resourceType":"GMSound",
