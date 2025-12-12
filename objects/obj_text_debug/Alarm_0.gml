@@ -1,1 +1,0 @@
-show_debug_message("The message has been drawn.\n");
