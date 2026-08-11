@@ -79,6 +79,7 @@
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Main Game","folderPath":"folders/Rooms/Main Game.yy","name":"Main Game","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Placeholder","folderPath":"folders/Rooms/Placeholder.yy","name":"Placeholder","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Dialogue","folderPath":"folders/Scripts/Dialogue.yy","name":"Dialogue","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"GameMaker Input (Game Controllers)","folderPath":"folders/Scripts/GameMaker Input (Game Controllers).yy","name":"GameMaker Input (Game Controllers)","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -142,7 +143,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.212",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"GameJamProject",
   "resources":[
@@ -218,6 +219,8 @@
     {"id":{"name":"Placeholder Music #1 (Background Music (BGM))","path":"notes/Placeholder Music #1 (Background Music (BGM))/Placeholder Music #1 (Background Music (BGM)).yy",},},
     {"id":{"name":"THE_PLANS_OVERALL","path":"notes/THE_PLANS_OVERALL/THE_PLANS_OVERALL.yy",},},
     {"id":{"name":"__InputUpdateController","path":"objects/__InputUpdateController/__InputUpdateController.yy",},},
+    {"id":{"name":"obj_particle","path":"objects/obj_particle/obj_particle.yy",},},
+    {"id":{"name":"rm_particle","path":"rooms/rm_particle/rm_particle.yy",},},
     {"id":{"name":"__InputBindingIsThumbstick","path":"scripts/__InputBindingIsThumbstick/__InputBindingIsThumbstick.yy",},},
     {"id":{"name":"__InputBindingScan","path":"scripts/__InputBindingScan/__InputBindingScan.yy",},},
     {"id":{"name":"__InputClassCluster","path":"scripts/__InputClassCluster/__InputClassCluster.yy",},},
@@ -620,6 +623,7 @@
     {"id":{"name":"spr_redblock_attack","path":"sprites/spr_redblock_attack/spr_redblock_attack.yy",},},
     {"id":{"name":"spr_smallpellet","path":"sprites/spr_smallpellet/spr_smallpellet.yy",},},
     {"id":{"name":"spr_smiley","path":"sprites/spr_smiley/spr_smiley.yy",},},
+    {"id":{"name":"spr_spark","path":"sprites/spr_spark/spr_spark.yy",},},
     {"id":{"name":"spr_textbox_button","path":"sprites/spr_textbox_button/spr_textbox_button.yy",},},
     {"id":{"name":"spr_textbox_new","path":"sprites/spr_textbox_new/spr_textbox_new.yy",},},
     {"id":{"name":"spr_textbox_placeholder","path":"sprites/spr_textbox_placeholder/spr_textbox_placeholder.yy",},},
@@ -632,7 +636,9 @@
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_particle","path":"rooms/rm_particle/rm_particle.yy",},},
+  ],
   "templateType":null,
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
