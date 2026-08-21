@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"pixelatedelegance_en_font",
   "parent":{
-    "name":"English",
-    "path":"folders/Fonts/English.yy",
+    "name":"Main",
+    "path":"folders/Fonts/Main.yy",
   },
   "pointRounding":0,
   "ranges":[
@@ -134,7 +134,10 @@
   "sdfSpread":8,
   "size":26.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

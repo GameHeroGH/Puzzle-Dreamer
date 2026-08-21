@@ -119,8 +119,8 @@
   "maintainGms1Font":false,
   "name":"jersey15_en_font",
   "parent":{
-    "name":"English",
-    "path":"folders/Fonts/English.yy",
+    "name":"Main",
+    "path":"folders/Fonts/Main.yy",
   },
   "pointRounding":0,
   "ranges":[

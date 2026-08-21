@@ -214,8 +214,8 @@
   "maintainGms1Font":false,
   "name":"dotgothic16_en_font",
   "parent":{
-    "name":"English",
-    "path":"folders/Fonts/English.yy",
+    "name":"Main",
+    "path":"folders/Fonts/Main.yy",
   },
   "pointRounding":0,
   "ranges":[
@@ -228,7 +228,10 @@
   "sdfSpread":8,
   "size":25.0,
   "styleName":"Regular",
-  "textureGroupId":null,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
   "TTFName":"",
   "usesSDF":false,
 }

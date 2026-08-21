@@ -1,1 +1,0 @@
-if (mouse_check_button_pressed(mb_left)) part_particles_create(particle_system, mouse_x, mouse_y, effect_drop, 1);
