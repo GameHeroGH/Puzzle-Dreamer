@@ -22,5 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":44100,
   "soundFile":"mus_wildwest_battle_placeholder.mp3",
-  "volume":0.75,
+  "volume":0.77,
 }
